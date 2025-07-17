@@ -27,3 +27,4 @@ Final Step:
 git push origin main
 → This uploads your committed changes to GitHub, to the main branch.
 """)
+print("Hey mohan you must and should pratice every day")
